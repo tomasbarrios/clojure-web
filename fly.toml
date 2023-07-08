@@ -1,6 +1,6 @@
 # fly.toml file generated for clojure-httpkit-example on 2022-05-31T13:39:20+02:00
 
-app = "clojure-httpkit-example"
+app = "clojure-web-tom"
 
 kill_signal = "SIGINT"
 kill_timeout = 5
